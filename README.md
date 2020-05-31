@@ -1,2 +1,2 @@
-# Week2-solution
-coursera
+# module2-solution
+Module 2 Solution
